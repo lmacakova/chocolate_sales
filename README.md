@@ -1,3 +1,4 @@
-![various chocolate bars](https://images.pexels.com/photos/4113305/pexels-photo-4113305.jpeg)
-<sup>Author: Alleksana, pexels.com</sup>
-# Chocolate Sales
+![](https://images.pexels.com/photos/65882/chocolate-dark-coffee-confiserie-65882.jpeg)
+<sup>[Pixabay](https://www.pexels.com/@pixabay) - pexels</sup>
+
+## Chocolate Sales
