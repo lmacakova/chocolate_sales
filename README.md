@@ -10,10 +10,9 @@ This project combines exploratory data analysis, machine learning forecasting, a
 ## Project Workflow
 
 1. Clean and explore chocolate sales data in Python
-2. Train a Random Forest Regressor to predict future sales
-3. Export 2025 sales predictions to CSV
-4. Build an interactive Power BI dashboard
-5. Compare historical performance and predicted sales
+2. Build an interactive Power BI dashboard
+3. Train a Random Forest Regressor to predict future sales
+4. Export 2025 sales predictions to CSV
 
 ---
 
